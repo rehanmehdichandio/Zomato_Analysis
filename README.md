@@ -6,7 +6,7 @@ This project showcases interactive dashboards developed using **Power BI** to an
 
 ## 🧭 1. Zomato Overview Dashboard
 
-![Zomato Overview Dashboard](<(https://github.com/rehanmehdichandio/Zomato_Analysis/blob/main/1.png)>)
+![Zomato Overview Dashboard](<https://github.com/rehanmehdichandio/Zomato_Analysis/blob/main/1.png>)
 
 ### 🔍 Key Highlights:
 - **Total Sales Amount**: ₹987M  
